@@ -1,0 +1,21 @@
+@charset "gb2312";
+body {
+    font-size: 12px;
+    line-height: 150%;
+}
+
+.box {
+    margin: 0 auto;
+    width: 460px;
+    position: relative;
+}
+
+.chess_left {
+    float: left;
+    text-align: center
+}
+
+.move_info {
+    float: left;
+    margin-top: 20px
+}
